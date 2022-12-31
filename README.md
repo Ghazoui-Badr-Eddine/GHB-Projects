@@ -57,7 +57,7 @@ A breadboard or prototyping board is a device that allows you to prototype an el
 ## Implementation
 
 The image below shows the architecture of the system and the connection of all the components together
-![image](https://user-images.githubusercontent.com/58095725/209869951-45f3db74-398a-4b68-a962-c10ccee09746.png)
+![schema](https://user-images.githubusercontent.com/58095725/210135854-34c082a4-5b6e-4244-857d-7e573bae3fa2.jpg)
 
 
 ## Code
